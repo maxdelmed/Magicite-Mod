@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "memoria_magicite:item/pure_memory_magicite"
+  }
+}

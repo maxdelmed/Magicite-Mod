@@ -1,0 +1,13 @@
+{
+  "item.memoria_magicite.fire_magicite": "Fire Magicite",
+  "item.memoria_magicite.blizzard_magicite": "Blizzard Magicite",
+  "item.memoria_magicite.thunder_magicite": "Thunder Magicite",
+  "item.memoria_magicite.cure_magicite": "Cure Magicite",
+  "item.memoria_magicite.clear_magicite": "Clear Magicite",
+  "item.memoria_magicite.life_magicite": "Life Magicite",
+  "item.memoria_magicite.fusion_gauntlet": "Fusion Gauntlet",
+  "item.memoria_magicite.aether_shard": "Magicite Shard (Legacy)",
+  "item.memoria_magicite.magicite_shard": "Magicite Shard",
+  "item.memoria_magicite.pure_memory_magicite": "Pure Memory",
+  "death.attack.memoria_sacrifice": "%1$s gave everything to cast Sacrifice Fusion."
+}

@@ -1,0 +1,142 @@
+{
+  "charge": {
+    "subtitle": "Magic gathers",
+    "sounds": [
+      {
+        "name": "memoria_magicite:charge",
+        "stream": false
+      }
+    ]
+  },
+  "release": {
+    "subtitle": "A Magicite spell releases",
+    "sounds": [
+      {
+        "name": "memoria_magicite:release",
+        "stream": false
+      }
+    ]
+  },
+  "fusion": {
+    "subtitle": "Magicite resonates together",
+    "sounds": [
+      {
+        "name": "memoria_magicite:fusion",
+        "stream": false
+      }
+    ]
+  },
+  "life_trigger": {
+    "subtitle": "Life saves an ally",
+    "sounds": [
+      {
+        "name": "memoria_magicite:life_trigger",
+        "stream": false
+      }
+    ]
+  },
+  "shatter": {
+    "subtitle": "Magicite shatters",
+    "sounds": [
+      {
+        "name": "memoria_magicite:shatter",
+        "stream": false
+      }
+    ]
+  },
+  "cast_fire": {
+    "subtitle": "Memoria Magicite: cast fire",
+    "sounds": [
+      {
+        "name": "memoria_magicite:cast_fire",
+        "stream": false
+      }
+    ]
+  },
+  "cast_blizzard": {
+    "subtitle": "Memoria Magicite: cast blizzard",
+    "sounds": [
+      {
+        "name": "memoria_magicite:cast_blizzard",
+        "stream": false
+      }
+    ]
+  },
+  "cast_thunder": {
+    "subtitle": "Memoria Magicite: cast thunder",
+    "sounds": [
+      {
+        "name": "memoria_magicite:cast_thunder",
+        "stream": false
+      }
+    ]
+  },
+  "cast_cure": {
+    "subtitle": "Memoria Magicite: cast cure",
+    "sounds": [
+      {
+        "name": "memoria_magicite:cast_cure",
+        "stream": false
+      }
+    ]
+  },
+  "cast_clear": {
+    "subtitle": "Memoria Magicite: cast clear",
+    "sounds": [
+      {
+        "name": "memoria_magicite:cast_clear",
+        "stream": false
+      }
+    ]
+  },
+  "cast_life": {
+    "subtitle": "Memoria Magicite: cast life",
+    "sounds": [
+      {
+        "name": "memoria_magicite:cast_life",
+        "stream": false
+      }
+    ]
+  },
+  "resonance_ready": {
+    "subtitle": "Memoria Magicite: resonance ready",
+    "sounds": [
+      {
+        "name": "memoria_magicite:resonance_ready",
+        "stream": false
+      }
+    ]
+  },
+  "power_two": {
+    "subtitle": "Memoria Magicite: power two",
+    "sounds": [
+      {
+        "name": "memoria_magicite:power_two",
+        "stream": false
+      }
+    ]
+  },
+  "power_three": {
+    "subtitle": "Memoria Magicite: power three",
+    "sounds": [
+      {
+        "name": "memoria_magicite:power_three",
+        "stream": false
+      }
+    ]
+  },
+  "unstable_release": {
+    "sounds": [
+      "memoria_magicite:unstable_release"
+    ]
+  },
+  "cast_pure_memory": {
+    "subtitle": "Memoria Magicite: cast pure memory",
+    "sounds": [
+      {
+        "name": "memoria_magicite:cast_pure_memory",
+        "stream": false
+      }
+    ]
+  }
+}

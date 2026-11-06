@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "IAI",
+    "GDG",
+    "CAC"
+  ],
+  "key": {
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "A": {
+      "item": "minecraft:amethyst_shard"
+    },
+    "G": {
+      "item": "minecraft:gold_ingot"
+    },
+    "D": {
+      "item": "minecraft:diamond"
+    },
+    "C": {
+      "item": "minecraft:copper_ingot"
+    }
+  },
+  "result": {
+    "item": "memoria_magicite:fusion_gauntlet"
+  }
+}

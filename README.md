@@ -15,7 +15,11 @@ I'm still working on it and will be updating the repository as I make changes an
 
 ## Building
 
-The project is made for Minecraft Forge 1.20.1 and Java 17. See the included build instructions for compiling the mod.
+Requires Java 17. Run `BUILD_MAGICITE.bat` on Windows or follow `BUILD_ON_WINDOWS.md`. The helper downloads the Forge development kit and builds the source. Use the resulting JAR from `READY_FOR_TEST/` after a successful build.
+
+The optional `kubejs_optional` folder contains loot configuration for KubeJS/LootJS. It is not installed automatically and you may ignore it if you want to keep the magicite off loot tables.
+
+I'll add an easy install when I feel content with the mod.
 
 ## Disclaimer
 
