@@ -2,9 +2,10 @@
 
 A custom Minecraft Forge 1.20.1 mod made for a fan dedicated server, inspired by the magic system in Final Fantasy Crystal Chronicles.
 
-Magicite can be found while exploring and is used to cast spells like Fire, Blizzard, Thunder, Cure, Clear, and Life. Spells can also be combined with other players or through a "Gauntlet" to create stronger effects/larger range. 
+Magicite can be found while exploring and is used to cast spells like Fire, Blizzard, Thunder, Cure, Clear, and Life. Spells can also be combined with other players to create stronger effects/larger range.
+There is also a built-in way to solo cast the stronger versions of spells, but a lot of the charm in this mod comes from cooperation.
 
-The mod also includes interactions with most vanilla blocks, for exxample Blizzard creates ice on water surfaces, Fire cooks food and lights campfires, Thunder can interact with redstone through a lightning rod, etc.
+The mod also includes interactions with most vanilla blocks, for example Blizzard creates ice on water surfaces, Fire cooks food and lights campfires, Thunder can interact with redstone through a lightning rod, etc.
 
 ## Development
 
