@@ -13,13 +13,9 @@ This is the first upload to GitHub, but the mod has been in development for a wh
 
 I'm still working on it and will be updating the repository as I make changes and test their correct functionality.
 
-## Building
-
-Requires Java 17. Run `BUILD_MAGICITE.bat` on Windows or follow `BUILD_ON_WINDOWS.md`. The helper downloads the Forge development kit and builds the source. Use the resulting JAR from `READY_FOR_TEST/` after a successful build.
-
-The optional `kubejs_optional` folder contains loot configuration for KubeJS/LootJS. It is not installed automatically and you may ignore it if you want to keep the magicite off loot tables.
-
-I'll add an easy install when I feel content with the mod.
+## Download
+This is still a prerelease, which means the mod is still in its early stages. So if you're interested in trying it, I've recently added an easy download! Prerelease v0.12.12 is available for download.
+As it is not a full release AKA I'm not satisfied with it yet, Kube.JS and the optional files I included are, well, **optional**. Without them, Magicite are only available through the creative menu. Download the Kube.js mod and the optional files in the v0.12.12 Release to enable them in loot tables.
 
 ## Disclaimer
 
